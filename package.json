@@ -4,9 +4,9 @@
   "description": "CircleCI practice project",
   "main": "index.js",
   "scripts": {
-  "start": "node index.js",
-  "test": "node test.js"
-},
+    "start": "node index.js",
+    "test": "node test.js"
+  },
   "keywords": ["circleci", "node", "practice"],
   "author": "Jona08Lab",
   "license": "ISC"
